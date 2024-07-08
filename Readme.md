@@ -1,5 +1,5 @@
 
-# Project Title
+# Easy to use modern captcha
 
 An Easy to use captcha for your website. Modern solution for bot problem. There are many people to use captcha for bot problem. I found out it somewhere and taken inspiration from it.
 
